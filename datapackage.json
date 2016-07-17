@@ -1,0 +1,20 @@
+{
+  "name": "imo-results",
+  "title": "IMO Results",
+  "author": "Rolando Espinoza <rolando at rmax.io>",
+  "homepage": "https://github.com/rolando/imo-results",
+  "keywords": [
+    "IMO", 
+    "olympiad"
+  ],
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "sources": [{
+    "name": "IMO Results Source",
+    "web": "http://data.source.web"
+  }],
+  "resources": [{
+    "name": "imo-results",
+    "path": "data/imo-results.csv"
+  }]
+}
